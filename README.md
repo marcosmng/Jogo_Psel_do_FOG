@@ -19,7 +19,7 @@ Jogo_Psel_do_FOG Jogo 2D estilo plataforma desenvolvido na Unity para o processo
 - Inimigo perseguidor: anda em direção ao jogador quando ele entrar no raio de detecção;
 - Inimigo Boss simples: O chefe possui uma quantidade de vida elevada e uma inteligência artificial que detecta o jogador e realiza disparos.
   ### Build jogavel:
-  (https://drive.google.com/file/d/11lHGPuDCfFmCXmWZh4K6Np-mC5tOvPsh/view?usp=sharing)
+ [Clique aqui para baixar a Build pelo Google Drive](https://drive.google.com/file/d/11lHGPuDCfFmCXmWZh4K6Np-mC5tOvPsh/view?usp=sharing)
 
 ### Desenvolvedor:
 
